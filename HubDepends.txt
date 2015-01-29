@@ -1,1 +1,0 @@
-hub:hubTestProject2:master

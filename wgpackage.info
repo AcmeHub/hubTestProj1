@@ -1,0 +1,5 @@
+{
+	"dependencies" : [ "hub:hubTestProject2:master" ],
+	"workspace_mapping" : "@{hub_lib_dir}"
+}
+
